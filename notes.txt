@@ -1,0 +1,22 @@
+
+PORTIFOLIO Website
+
+Content: my projects, about me
+
+
+I'll use:
+- Flask as my web framework (+ Jinja for Python Code)
+- SQLAlquemy for my database (database was not needed for this project)
+
+1. Choose a web template:
+html5up-phantom
+
+2. Copy all the template files in the static and templates folders; 
+	Fix the file paths specified in the template htmls
+	
+3. Define my website layout (content and how to organise it)
+
+4. Create a page for when clicking on each one of the boxes
+
+5. Deploy website
+	- Upload to github
